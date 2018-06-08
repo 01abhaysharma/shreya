@@ -1,2 +1,0 @@
-# shreya
-training for mesosphere
